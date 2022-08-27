@@ -1,0 +1,8 @@
+org.pathvisio.libgpml.debug
+org.pathvisio.libgpml.io
+org.pathvisio.libgpml.model
+org.pathvisio.libgpml.model.connector
+org.pathvisio.libgpml.model.shape
+org.pathvisio.libgpml.model.type
+org.pathvisio.libgpml.prop
+org.pathvisio.libgpml.util
